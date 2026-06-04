@@ -1,0 +1,14 @@
+C:\Projects\DotnetTraining\DotnetTraining\bin\Debug\net10.0\DotnetTraining.exe
+C:\Projects\DotnetTraining\DotnetTraining\bin\Debug\net10.0\DotnetTraining.dll
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\DotnetTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\DotnetTraining.AssemblyInfoInputs.cache
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\DotnetTraining.AssemblyInfo.cs
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\DotnetTraining.csproj.CoreCompileInputs.cache
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\DotnetTraining.dll
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\refint\DotnetTraining.dll
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\DotnetTraining.pdb
+C:\Projects\DotnetTraining\DotnetTraining\bin\Debug\net10.0\DotnetTraining.deps.json
+C:\Projects\DotnetTraining\DotnetTraining\bin\Debug\net10.0\DotnetTraining.runtimeconfig.json
+C:\Projects\DotnetTraining\DotnetTraining\bin\Debug\net10.0\DotnetTraining.pdb
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\DotnetTraining.genruntimeconfig.cache
+C:\Projects\DotnetTraining\DotnetTraining\obj\Debug\net10.0\ref\DotnetTraining.dll
