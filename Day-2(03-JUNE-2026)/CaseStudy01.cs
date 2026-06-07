@@ -1,9 +1,9 @@
 
 using System;
 
-public class Program
+public class case1
 {
-    public static void Main()
+    public static void Maindisable()
     {
         Account acc1 = new SavingsAccount(101, "Sowjanya", 5000);
         Account acc2 = new CurrentAccount(102, "Rahul", 3000);

@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Day_1.StudentPerformance</StartupObject>
+    
   </PropertyGroup>
 <ItemGroup>
   
