@@ -1,11 +1,12 @@
 ﻿
 using System;
 using System.Collections.Generic;
-/*class StudentPerformance
-{
+//namespace Day_1{
+//class StudentPerformance
+//{
    
-    static void Main(string[] args)
-{
+  //  static void Main(string[] args)
+//{
     Console.WriteLine("enter the number of students:");
     int count=Convert.ToInt32(Console.ReadLine());
     Dictionary<string,int> students=new Dictionary<string,int>();
@@ -33,5 +34,4 @@ using System.Collections.Generic;
         }
 var topStudents = students.Where(s => s.Value > 80);
 Console.WriteLine("students with marks greater than 80:" + String.Join(", ", topStudents.Select(s => s.Key)));
-}}
-*/
+//}}}

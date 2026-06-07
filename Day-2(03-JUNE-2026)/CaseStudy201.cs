@@ -1,7 +1,28 @@
 
 using System;
 
-abstract class Account
+public class Program
+{
+    public static void Main()
+    {
+        Account acc1 = new SavingsAccount(101, "Sowjanya", 5000);
+        Account acc2 = new CurrentAccount(102, "Rahul", 3000);
+
+        acc1.Deposit(1000);
+        acc1.Withdraw(2000);
+        acc1.CalculateInterest();
+        acc1.DisplayDetails();
+
+        Console.WriteLine("--------------------");
+
+        acc2.Deposit(500);
+        acc2.Withdraw(3500);
+        acc2.CalculateInterest();
+        acc2.DisplayDetails();
+    }
+}
+
+public abstract class Account
 {
    
     public int AccountNumber { get; set; }
@@ -107,27 +128,5 @@ class CurrentAccount : Account
     public override void CalculateInterest()
     {
         Console.WriteLine("No interest for Current Account.");
-    }
-}
-class Program
-{
-    static void Main(string[] args)
-    {
-       
-        Account acc1 = new SavingsAccount(101, "Sowjanya", 5000);
-        Account acc2 = new CurrentAccount(102, "Rahul", 3000);
-
-      
-        acc1.Deposit(1000);
-        acc1.Withdraw(2000);
-        acc1.CalculateInterest();
-        acc1.DisplayDetails();
-
-        Console.WriteLine("--------------------");
-
-        acc2.Deposit(500);
-        acc2.Withdraw(3500);
-        acc2.CalculateInterest();
-        acc2.DisplayDetails();
     }
 }
