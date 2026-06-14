@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+  </PropertyGroup>
+<ItemGroup>
+  
+    <Compile Remove="Day-3(04-JUNE-2026)\Casestudy1.cs" />
+    <Compile Remove="Day-2(03-JUNE-2026)\Casestudy1.cs" />
+    <Compile Remove="Day-4(05-JUNE-2026)\Casestudy1.cs" />
+  </ItemGroup>
+</Project>
